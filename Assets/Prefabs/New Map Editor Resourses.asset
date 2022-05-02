@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8173c1868aea6954a8732f3f15ecafdd, type: 3}
+  m_Name: New Map Editor Resourses
+  m_EditorClassIdentifier: 
+  _tiles:
+  - _preview: {fileID: 5423309174250836202, guid: dc2c5ce3a447d3f47926f65290060950, type: 3}
+    _prefab: {fileID: 3295460518299020346, guid: c2bc05c27089e9a4a9750112831c2d0f, type: 3}
+  - _preview: {fileID: 4820426591365630372, guid: 6e14046f792d88d4bbf999f5944db576, type: 3}
+    _prefab: {fileID: 1926831353388715020, guid: 695d42a3fb11db142b5992ff9142eb09, type: 3}
+  - _preview: {fileID: 151877038399582635, guid: beb338d2da4dcab499b510534baa2c80, type: 3}
+    _prefab: {fileID: 7524775973676524309, guid: 3a106834c68083641ac5d6905fce4ada, type: 3}
+  _rocks:
+  - _preview: {fileID: 9092571548143846362, guid: 2b469b52df9118444a7b2ea11f2958a2, type: 3}
+    _prefab: {fileID: 6760397544438887380, guid: 39af0483320ce384d8c2896f852882bd, type: 3}
+  _decals: []
+  _roads: []
+  _activeObjects: []
+  _buildings: []
